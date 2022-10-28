@@ -1,2 +1,2 @@
-# example.gemforge.ru
-Test github pages hosting
+# Принципы и культура компании
+
